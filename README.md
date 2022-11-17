@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fluxiity
-- 👀 I’m interested in Soccer, Basketball, and Football.
+- 👀 I’m interested in Soccer, Basketball, and Golf.
 - 🌱 I’m currently learning LUA.
 - 💞️ I’m looking to collaborate on many discord bot projects.
 - 📫 How to reach me Discord @jr;#5542 or Twitter @Fluxiity_Junior
